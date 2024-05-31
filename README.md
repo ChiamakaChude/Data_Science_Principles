@@ -1,6 +1,6 @@
 # Data_Science_Principles
 
-Ecoli Dataset Classification
+Ecoli Dataset Classification <br>
 This project involves classifying the Ecoli dataset using two different machine learning models: Naive Bayes and Logistic Regression. The dataset consists of 129 samples with 5 features and a binary class label indicating the location of proteins.
 
 Key Steps:
